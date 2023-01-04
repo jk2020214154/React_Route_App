@@ -1,3 +1,17 @@
+# 效果展示
+
+
+
+* [github链接](https://github.com/jk2020214154/React_Route_App) 
+* [acgit链接](https://git.acwing.com/jk20214154/react_route_app)
+
+
+> 功能实现：
+> 实现主页、linux、Django、Web、404等导航页面的跳转以及子页面的跳转
+
+![QQ截图20230104215214.png](https://cdn.acwing.com/media/article/image/2023/01/04/85276_4e2cc2238c-QQ截图20230104215214.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
